@@ -1,2 +1,0 @@
-"# omma_site" 
-"# OMMA" 
